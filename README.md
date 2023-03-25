@@ -10,4 +10,4 @@ npm run view
 
 npm run edit
 
-npm run bonus
+npm run accumulated
